@@ -1,4 +1,4 @@
-# I am learning machine learning
+# Python and Machine Learning Learning Project
 
 
 ## Table of Contents
@@ -6,14 +6,16 @@
 - [Introduction](#introduction)
 - [Learning Goals](#learning-goals)
 
+
 ## Introduction
 
-This project is part of my journey to learn machine learning. The goal is to [specific goal, e.g., build a model to predict house prices, classify images, etc.], while applying and understanding various ML concepts and techniques.
+This project is part of my journey to learn Python and machine learning. The goal is to [specific goal, e.g., build a model to predict house prices, classify images, etc.], while applying and understanding various Python and ML concepts and techniques.
 
 ## Learning Goals
 
-- Understand the basics of machine learning.
+- Master the basics of Python programming.
+- Understand the fundamentals of machine learning.
 - Learn how to preprocess data.
 - Gain experience in training and evaluating machine learning models.
-- Explore different machine learning algorithms.
+- Explore different machine learning algorithms and techniques.
 - Learn how to use popular ML libraries such as scikit-learn, TensorFlow, or PyTorch.
