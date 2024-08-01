@@ -1,0 +1,1 @@
+{"product_id": "book", "name": "book", "description": "the bok", "price": 125.0, "stock_quantity": 10, "initial_stock": 10}
