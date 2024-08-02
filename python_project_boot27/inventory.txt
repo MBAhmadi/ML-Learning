@@ -1,1 +1,2 @@
-{"product_id": "book", "name": "book", "description": "the bok", "price": 125.0, "stock_quantity": 10, "initial_stock": 10}
+{"product_id": "100", "name": "book", "description": "the book learning css", "price": 410.0, "stock_quantity": 16, "initial_stock": 16}
+{"product_id": "101", "name": "phone", "description": "apple iphone 13", "price": 1200.0, "stock_quantity": 12, "initial_stock": 18}

@@ -1,2 +1,5 @@
 coffee
 sugar
+detergent
+bread
+tea
