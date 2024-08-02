@@ -3,3 +3,5 @@ sugar
 detergent
 bread
 tea
+apple
+kiwi
